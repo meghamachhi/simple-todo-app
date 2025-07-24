@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some apple"
+    },
+    {
+      "id": "5f173d20-0f99-42e6-b174-3a3b6f65e298",
+      "text": "go to clg"
+    },
+    {
+      "id": "63ffc5c5-6193-41c0-a459-780350a70bf9",
+      "text": "learn react"
+    },
+    {
+      "id": "10",
+      "text": "play"
+    },
+    {
+      "id": "8a84246a-e2a4-4631-9d06-42e7aceb26c6",
+      "text": "breakfast"
+    }
+  ]
+} 
